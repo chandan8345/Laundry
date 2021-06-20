@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765639083310",
+    "project_id": "laundry-6530b",
+    "storage_bucket": "laundry-6530b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765639083310:android:21390fe227507c3b3aa6bf",
+        "android_client_info": {
+          "package_name": "chandan.brightstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765639083310-ab8rm83al8lmgjv1gj3ebv15hfrns8vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVGxyXZ_7eMO_1COczYG1urcckpMEYak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765639083310-ab8rm83al8lmgjv1gj3ebv15hfrns8vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
